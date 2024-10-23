@@ -1,4 +1,4 @@
-## Play-Integrity
+## Play-Integrity-Fix-Moded
 
 ## Mohammad-Ismail
 
@@ -6,9 +6,11 @@
 
 - Certified Google Play Store repair
 
-- Restored support for Android 8.1 to 14
+- Restored support for Android 8.1 to 15
 
 - This version only supports Zygisk (Magisk 20.4+ and newer).
+
+- This version only supports Zygisk-Next (APatch + Kernal SU).
 
 - Communication
 
